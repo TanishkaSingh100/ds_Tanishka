@@ -1,7 +1,5 @@
 # Trader Behavior & Market Sentiment Analysis
 
-**Candidate:** Tanishka
-
 ### Project Objective
 
 This project analyzes the relationship between trader behavior and market sentiment using two key datasets. The objective is to identify how trading behavior (profitability, volume) aligns or diverges from overall market sentiment (fear vs greed) and to uncover hidden trends that could influence smarter trading strategies.This was completed as part of the Data Science assignment for the Web3 Trading Team.
@@ -38,3 +36,5 @@ To generate this file and run the full analysis, please execute the cells in the
 2.  It is designed to be run in a Google Colab environment.
 3.  The notebook uses standard Python libraries such as `pandas`, `matplotlib`, and `seaborn`. No special installations are required.
 4.  The initial raw data files (`historical_data.csv` and `fear_greed_index.csv`) should be placed in the root Colab environment directory for the notebook to run successfully.
+
+**Author:** Tanishka Singh
