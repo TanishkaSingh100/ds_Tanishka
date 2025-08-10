@@ -34,8 +34,9 @@ To generate this file and run the full analysis, please execute the cells in the
 
 ### How to Run
 
-1.  The primary analysis is contained in `notebook_1.ipynb`.
-2.  It is designed to be run in a Google Colab environment.
-3.  The notebook uses standard Python libraries such as `pandas`, `matplotlib`, and `seaborn`. No special installations are required.
-4.  The initial raw data files (`historical_data.csv` and `fear_greed_index.csv`) should be placed in the root Colab environment directory for the notebook to run successfully.
+1.  The primary analysis is contained in `notebook_1.ipynb`. The easiest way to run the analysis is to open the notebook directly in Google Colab using the link below. The notebook access is set to 'Anyone with the link can view' as required.
+   Link: https://colab.research.google.com/drive/1VVnRSF4hg1WQ_VahmfkTFQOlCU-brRQN?usp=sharing
+3.  It is designed to be run in a Google Colab environment.
+4.  The notebook uses standard Python libraries such as `pandas`, `matplotlib`, and `seaborn`. No special installations are required.
+5.  The initial raw data files (`historical_data.csv` and `fear_greed_index.csv`) should be placed in the root Colab environment directory for the notebook to run successfully.
 
