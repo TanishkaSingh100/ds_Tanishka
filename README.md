@@ -12,13 +12,13 @@ This project analyzes the relationship between trader behavior and market sentim
 
 The repository is structured according to the assignment's submission guidelines:
 
-* [cite_start]`notebook_1.ipynb`: A Google Colab notebook containing all Python code for data cleaning, merging, analysis, and visualization[cite: 9, 10].
-* [cite_start]`ds_report.pdf`: The final summary report detailing the project's methodology, findings, and explanations[cite: 19, 25].
-* [cite_start]`README.md`: This file, providing an overview and notes on the project[cite: 20, 21].
+* `notebook_1.ipynb`: A Google Colab notebook containing all Python code for data cleaning, merging, analysis, and visualization.
+* `ds_report.pdf`: The final summary report detailing the project's methodology, findings, and explanations.
+* `README.md`: This file, providing an overview and notes on the project.
 * `.gitignore`: Specifies files intentionally excluded from the repository.
-* [cite_start]`csv_files/`: This directory contains intermediate or processed data files[cite: 15, 22].
+* `csv_files/`: This directory contains intermediate or processed data files.
     * `sentiment_stats.csv`: Aggregated statistics of trader behavior grouped by market sentiment.
-* [cite_start]`outputs/`: This directory contains all visual outputs, graphs, or charts from the analysis[cite: 17, 23, 24].
+* `outputs/`: This directory contains all visual outputs, graphs, or charts from the analysis.
     * `pnl_by_sentiment.png`: A bar chart showing average profit/loss by sentiment.
     * `leverage_by_sentiment.png`: A bar chart showing average trade size by sentiment.
 
@@ -35,6 +35,6 @@ To generate this file and run the full analysis, please execute the cells in the
 ### How to Run
 
 1.  The primary analysis is contained in `notebook_1.ipynb`.
-2.  [cite_start]It is designed to be run in a Google Colab environment[cite: 10].
+2.  It is designed to be run in a Google Colab environment.
 3.  The notebook uses standard Python libraries such as `pandas`, `matplotlib`, and `seaborn`. No special installations are required.
 4.  The initial raw data files (`historical_data.csv` and `fear_greed_index.csv`) should be placed in the root Colab environment directory for the notebook to run successfully.
