@@ -1,0 +1,2 @@
+# Ignore large intermediate data files
+csv_files/cleaned_data.csv
